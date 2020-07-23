@@ -1,0 +1,17 @@
+//
+//  UCSample-Prefix.pch
+//  UCSample
+//
+//  Created by Joe Lepple on 15/12/2017.
+//  Copyright © 2017 PortSIP. All rights reserved.
+//
+
+#ifndef UCSample_Prefix_pch
+#define UCSample_Prefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import <PortSIPUCSDK/PortSIPUCSDK.h>
+
+#endif /* UCSample_Prefix_pch */

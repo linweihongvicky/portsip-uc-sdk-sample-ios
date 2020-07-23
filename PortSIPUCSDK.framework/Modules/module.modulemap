@@ -1,0 +1,6 @@
+framework module PortSIPUCSDK {
+  umbrella header "PortSIPUCSDK.h"
+
+  export *
+  module * { export * }
+}
