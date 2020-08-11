@@ -1,11 +1,11 @@
-# Welcome to PortSIP free UC SDK For iOS
+# Welcome to PortSIP free UC SDK for iOS
 
-PortSIP UC SDK is a **free SIP SDK** which allows you create your SIP-based application for multiple platforms (iOS, Android, Windows, macOS and Linux) base on it.
+PortSIP UC SDK is a **free SIP SDK** which allows you to create your SIP-based application for multiple platforms (iOS, Android, Windows, macOS and Linux) base on it.
 **PortSIP UC SDK is free, but it was limited only work with** [PortSIP PBX](https://www.portsip.com/portsip-pbx)
 
-**If you looking for a SIP SDK works with 3rd PBX or SIP server, please check our** [PortSIP VoIP SDK](https://github.com/portsip/portsip-voip-sdk-sample-for-ios)
+**If you are looking for a SIP SDK working with 3rd PBX or SIP server, please check our** [PortSIP VoIP SDK](https://github.com/portsip/portsip-voip-sdk-sample-for-ios)
 
-The PortSIP UC SDK is a powerful and versatile set of tools that dramatically accelerate SIP application development. It includes a suite of stacks, SDKs, and some Sample projects, with each of them enables developers to combine all the necessary components to create an ideal development environment for every application's specific needs.
+The PortSIP UC SDK is a powerful and versatile set of tools that dramatically accelerate SIP application development. It includes a suite of stacks, SDKs, and some Sample projects, each of which enables developers to combine all the necessary components to create an ideal development environment for every application's specific needs.
 
 The PortSIP UC SDK complies with IETF and 3GPP standards, and is IMS-compliant (3GPP/3GPP2, TISPAN and PacketCable 2.0).
 These high performance SDKs provide unified API layers for full user control and flexibility.
@@ -13,18 +13,18 @@ These high performance SDKs provide unified API layers for full user control and
 
 ## Getting Started
 
-You can checkout our UC SDK with SIPsample project source code by perform below command:<br><br>
+You can checkout our UC SDK with SIPsample project source code by performing below command:<br><br>
 ```git clone https://github.com/portsip/portsip-uc-sdk-sample-ios.git```
 
 ## Contents
 
- The sample package for downloading contains almost all of materials for PortSIP SDK: documentation,
- Dynamic/Static libraries, sources, headers, datasheet, and everything else a SDK user might need!
+ The downloaded sample package contains almost all of materials for PortSIP SDK: documentation,
+Dynamic/Static libraries, sources, headers, datasheet, and everything else a SDK user might need!
 
 
 ## SDK User Manual
 
- To be started with, it is recommended to read the documentation of PortSIP UC SDK, [SDK User Manual page](https://www.portsip.com/voip-sdk-user-manual/), which gives a brief description of each API function.
+To be started with, it is recommended to read the documentation of PortSIP UC SDK, [SDK User Manual page](https://www.portsip.com/voip-sdk-user-manual/), which gives a brief description of each API function.
 
 
 ## Website
@@ -43,8 +43,8 @@ Development using the PortSIP UC SDK for iOS requires an Intel-based Macintosh r
 
 If you are not yet a registered Apple developer, to be able to develop applications for the iOS, you do need to become a registered Apple developer. After registered, Apple grants you free access to a select set of technical resources, tools, and information for developing with iOS, Mac OS X, and Safari. You can open <a href="http://developer.apple.com/programs/register/">registration page</a> and enroll.
 Once registered, you can then go to the <a
-href="http://developer.apple.com/devcenter/ios/index.action">iOS Dev Center</a>, login and download the iOS SDK. The SDK contains documentation, frameworks, tools, and a simulator to help develop iOS applications. XCode (the developer toolset for iOS application development) is included in the download as well so you do not need to purchase any developer tools to build iOS applications - that is included in the enrollment fee.
-You will need to use a minimum of iOS SDK 10 for developing iPhone and iPod Touch applications. At the time of writing this document, iOS SDK 13 was the most recent version available and supported.
+href="http://developer.apple.com/devcenter/ios/index.action">iOS Dev Center</a>, login and download the iOS SDK. The SDK contains documentation, frameworks, tools, and a simulator to help develop iOS applications. XCode (the developer toolset for iOS application development) is included in the downloaded package as well, so you do not need to purchase any developer tools to build iOS applications - that is included in the enrollment fee.
+You will need to use a minimum of iOS SDK 10 for developing iPhone and iPod Touch applications. At the time of writing this document, iOS SDK 13 is the latest available and supported version.
 
 ## Note:
 
@@ -53,26 +53,25 @@ Regardless of the iOS SDK you're using for development, you can still target you
 
 ## Device Requirements
 
-  Applications built with PortSIP UC SDK for iOS can be run on iPhone 4S or higher, iPod touch 4 or higher, and iPad 2 or higher devices. These devices must be running iOS 9 or higher. We strongly recommend that you test your applications on actual devices to ensure that they work as expected and perform well. Testing on the simulator alone does not provide a good measure of how the application will perform on the physical device.
+Applications built with PortSIP UC SDK for iOS can be run on iPhone 4S or higher, iPod touch 4 or higher, and iPad 2 or higher. These devices must be running iOS 9 or higher. We strongly recommend you to test your applications on actual devices to ensure that they work as expected and perform well. Testing on the simulators does not provide a good measure of how the application will perform on the physical device.
 
 
 ## Frequently Asked Questions
-### 1. Does PortSIP UC SDK is free?
+### 1. Is PortSIP UC SDK free of charge?
 
-  Yes, the PortSIP UC SDK is totally free, but it was limited only works with <a href="https://www.portsip.com/portsip-pbx/" target="_blank">PortSIP PBX</a>.
+Yes, the PortSIP UC SDK is totally free, but it was limited to work with <a href="https://www.portsip.com/portsip-pbx/" target="_blank">PortSIP PBX</a> only.
 
 ### 2. What is the difference between PortSIP UC SDK and PortSIP VoIP SDK?
-  The <a href="https://www.portsip.com/portsip-uc-sdk/" target="_blank">PortSIP UC SDK</a> is free, but was limited to works with <a href="https://www.portsip.com/portsip-pbx/" target="_blank">PortSIP PBX</a>; The <a href="https://www.portsip.com/portsip-pbx/" target="_blank">PortSIP VoIP SDK</a> is not free that can works with any 3rd SIP based PBX. The UC SDK also have a lot of unique features than the VoIP SDK which provided by <a href="https://www.portsip.com/portsip-pbx/" target="_blank">PortSIP PBX</a>.
+The <a href="https://www.portsip.com/portsip-uc-sdk/" target="_blank">PortSIP UC SDK</a> is free of charge, but is limited to work with <a href="https://www.portsip.com/portsip-pbx/" target="_blank">PortSIP PBX</a> only; the <a href="https://www.portsip.com/portsip-pbx/" target="_blank">PortSIP VoIP SDK</a> is not free of charge and can work with any 3rd SIP based PBX. The UC SDK also provides a lot of unique features than the VoIP SDK which are provided by <a href="https://www.portsip.com/portsip-pbx/" target="_blank">PortSIP PBX</a>.
 
 ### 3. Where can I download the PortSIP UC SDK for test?
-  All sample projects of the **free PortSIP UC SDK** can be found and downloaded at github:
+All sample projects of the **free PortSIP UC SDK** can be found and downloaded at github:
   <br>
 ```git clone https://github.com/portsip/portsip-uc-sdk-sample-ios.git
    git clone https://github.com/portsip/portsip-uc-sdk-sample-android.git
    git clone https://github.com/portsip/portsip-uc-sdk-sample-mac.git
    git clone https://github.com/portsip/portsip-uc-sdk-sample-win.git
    git clone https://github.com/portsip/portsip-uc-sdk-sample-for-xamarin.git
-   git clone https://github.com/portsip/portsip-uc-sdk-sample-ios.git
 ```
 
 
@@ -85,13 +84,13 @@ Regardless of the iOS SDK you're using for development, you can still target you
 
 ### 5. How can I create a new project with PortSIP VoIP SDK?
 
-  1. Checkout the Sample project from github to a directory.
+  1. Checkout the Sample project from github to a local directory.
   2. Run the XCode or other IDE and create a new iOS Project.
   3. Drag and drop PortSIPUCSDK.framework from Finder to XCode->Frameworks.
-  4. Add depend Frameworks:
-      Build Phases->Link Binary With Libraries, add  libc++.tbd, libresolv.tbd, VideoToolbox.framework, GLKit.framework, MetalKit.framework.
+  4. Add dependant Frameworks:
+      Build Phases->Link Binary With Libraries, add libc++.tbd, libresolv.tbd, VideoToolbox.framework, GLKit.framework, MetalKit.framework.
   5. Add "-ObjC" to "Build Settings"-> "Other Linker Flags"
-  6. Add the code in .h file to import the SDK, example:
+  6. Add the code in .h file to import the SDK. For example:
 ```
    #import <PortSIPUCSDK/PortSIPUCSDK.h>
 ```
