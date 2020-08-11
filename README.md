@@ -1,6 +1,6 @@
 # Welcome to PortSIP free UC SDK For iOS
 
-PortSIP UC SDK is a **free SIP SDK** which allows you create your SIP-based application for multiple platforms (iOS, Android, Windows, Mac OS and Linux) base on it.
+PortSIP UC SDK is a **free SIP SDK** which allows you create your SIP-based application for multiple platforms (iOS, Android, Windows, macOS and Linux) base on it.
 **PortSIP UC SDK is free, but it was limited only work with** [PortSIP PBX](https://www.portsip.com/portsip-pbx)
 
 **If you looking for a SIP SDK works with 3rd PBX or SIP server, please check our** [PortSIP VoIP SDK](https://github.com/portsip/portsip-voip-sdk-sample-for-ios)
