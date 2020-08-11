@@ -65,21 +65,27 @@ Regardless of the iOS SDK you're using for development, you can still target you
   The <a href="https://www.portsip.com/portsip-uc-sdk/" target="_blank">PortSIP UC SDK</a> is free, but was limited to works with <a href="https://www.portsip.com/portsip-pbx/" target="_blank">PortSIP PBX</a>; The <a href="https://www.portsip.com/portsip-pbx/" target="_blank">PortSIP VoIP SDK</a> is not free that can works with any 3rd SIP based PBX. The UC SDK also have a lot of unique features than the VoIP SDK which provided by <a href="https://www.portsip.com/portsip-pbx/" target="_blank">PortSIP PBX</a>.
 
 ### 3. Where can I download the PortSIP UC SDK for test?
-  All sample projects of the %PortSIP UC SDK can be found and downloaded at:
-  <a href="https://www.portsip.com/download-portsip-uc-sdk/" target="_blank">https://www.portsip.com/download-portsip-uc-sdk/</a> <br />
+  All sample projects of the **free PortSIP UC SDK** can be found and downloaded at github:
+  <br>
+```git clone https://github.com/portsip/portsip-uc-sdk-sample-ios.git
+   git clone https://github.com/portsip/portsip-uc-sdk-sample-android.git
+   git clone https://github.com/portsip/portsip-uc-sdk-sample-mac.git
+   git clone https://github.com/portsip/portsip-uc-sdk-sample-win.git
+   git clone https://github.com/portsip/portsip-uc-sdk-sample-for-xamarin.git
+```
+
 
 ### 4. How can I compile the sample project?
 
-  1. Download the sample project from PortSIP website.
-  2. Extract the .zip file.
-  3. Open the project by your Xcode.
-  4. Compile the sample project directly.  
+  1. Checkout the UC SDK and sample project from github.
+  2. Open the project by your IDE.
+  3. Compile the sample project directly.
 
 
 ### 5. How can I create a new project with PortSIP VoIP SDK?
 
-  1. Download the Sample project and extract it to a directory.
-  2. Run the Xcode and create a new iOS Project.
+  1. Checkout the Sample project from github to a directory.
+  2. Run the XCode or other IDE and create a new iOS Project.
   3. Drag and drop PortSIPUCSDK.framework from Finder to XCode->Frameworks.
   4. Add depend Frameworks:
       Build Phases->Link Binary With Libraries, add  libc++.tbd, libresolv.tbd, VideoToolbox.framework, GLKit.framework, MetalKit.framework.
