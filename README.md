@@ -72,6 +72,7 @@ Regardless of the iOS SDK you're using for development, you can still target you
    git clone https://github.com/portsip/portsip-uc-sdk-sample-mac.git
    git clone https://github.com/portsip/portsip-uc-sdk-sample-win.git
    git clone https://github.com/portsip/portsip-uc-sdk-sample-for-xamarin.git
+   git clone https://github.com/portsip/portsip-uc-sdk-sample-ios.git
 ```
 
 
