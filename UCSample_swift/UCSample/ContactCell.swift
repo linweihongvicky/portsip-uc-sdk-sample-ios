@@ -9,8 +9,8 @@
 import UIKit
 
 class ContactCell: UITableViewCell {
-    var urlLabel: UILabel!
-    var noteLabel: UILabel!
+    @IBOutlet var urlLabel: UILabel!
+    @IBOutlet var noteLabel: UILabel!
     @IBOutlet var onlineImageView: UIImageView!
 
     required init?(coder aDecoder: NSCoder) {
