@@ -24,6 +24,8 @@
 	<true/>
 	<key>NSCameraUsageDescription</key>
 	<string>UCSample needs access to your Camera to make and receive VoIP Video calls.</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>SIPSample needs access to your LocalNetWork.</string>
 	<key>NSMicrophoneUsageDescription</key>
 	<string>UCSample needs access to your microphone to make and receive VoIP calls.</string>
 	<key>UIBackgroundModes</key>
